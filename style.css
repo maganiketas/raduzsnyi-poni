@@ -1,0 +1,16 @@
+body {
+    background : #2c2c22;
+    color : #ffffff;
+    font-family : arial;
+    font-size : 14px;
+}
+.main {
+    padding-top : 50px;
+}
+
+table {
+    border-radius : 6px;
+    border : #6d6d6d solid 1px;
+    margin : auto;
+    background : #403e3e;
+}
